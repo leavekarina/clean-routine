@@ -1,11 +1,10 @@
 # CleanRoutine Stage Roadmap
 
-Current stage: 52
+Current stage: 53
 Target stages: 66
 
 ## Upcoming Focus
 
-- Stage 52: Capture sync boundary notes
 - Stage 53: Add local-first notes
 - Stage 54: Document privacy notes
 - Stage 55: Add sample data notes
@@ -13,3 +12,4 @@ Target stages: 66
 - Stage 57: Add contribution notes
 - Stage 58: Describe roadmap risks
 - Stage 59: Add review checklist
+- Stage 60: Document refactor plan
