@@ -2,8 +2,8 @@
 
 CleanRoutine is a small local command-line utility that grows in focused stages.
 
-Current stage: 53
-Latest focus: Add local-first notes
+Current stage: 54
+Latest focus: Document privacy notes
 
 ## Goals
 
